@@ -4,17 +4,20 @@
 }
 
 body {
-	background: url("../img/bg.png")
+	background: url("../img/foggy_birds.png")
 }
 
 /*articlename*/
 #h1 {
 	font: 24px bold;
 	font-family: 'Bubbler One', sans-serif;
+	text-align: center;
     }
 
 /*articleheading*/
 #h3 {
+	text-align: justify;
+	font-family: 'Baumans', cursive;
 	display: inline;
 }
 
