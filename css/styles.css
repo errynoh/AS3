@@ -1,23 +1,27 @@
+
 .container_12 {
-	background: orange;
+	background: #FFF;
 }
 
-/*logo*/
-#logo {
-	background: #0F9;
+body {
+	background: url("../img/bg.png")
 }
 
+/*articlename*/
+#h1 {
+	font: 24px bold;
+	font-family: 'Bubbler One', sans-serif;
+    }
 
-
-/*heading*/
-#headind {
-	background: #C0F;
+/*articleheading*/
+#h3 {
+	display: inline;
 }
 
 /*img1*/
 #owlimg img
- {	width: 90%;
-	height: 90%;
+ {	width: 100%;
+	height: 100%;
 }
 
 /*side*/
@@ -30,24 +34,3 @@
 	background: #FF9;
 }
 
-/* Main Navigation */
-li {
-  background: orange;
-  display: inline;
-  list-style: none;
-  margin: 20px 10px;
-  padding: 20px 10px;
-}
-
-a {
-  color: red;
-  font: 24px sans-serif bold;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  text-decoration: none;  
-}
-
-li:hover {
-  background: blue;
-  color: #fff; 
-} 
