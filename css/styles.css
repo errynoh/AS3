@@ -37,3 +37,18 @@ body {
 	background: #FF9;
 }
 
+#anatomy {
+	text-align: justify;
+	font-family: 'Baumans', cursive;
+}
+
+#behavior {
+	text-align: justify;
+	font-family: 'Baumans', cursive;
+}
+
+#jumps {
+	text-align: justify;
+	font-family: 'Baumans', cursive;
+}
+
